@@ -151,7 +151,7 @@
         <version.org.apache.qpid.proton-j>0.26.0</version.org.apache.qpid.proton-j>
         <version.org.apache.qpid.qpid-jms-client>0.30.0</version.org.apache.qpid.qpid-jms-client>
         <version.org.apache.santuario>2.0.10</version.org.apache.santuario>
-        <version.org.apache.servicemix.bundles.ant>1.7.0_6</version.org.apache.servicemix.bundles.ant>
+        <version.org.apache.servicemix.bundles.ant>1.10.3_1</version.org.apache.servicemix.bundles.ant>
         <version.org.apache.servicemix.bundles.antlr2>2.7.7_5</version.org.apache.servicemix.bundles.antlr2>
         <version.org.apache.servicemix.bundles.antlr>3.5.2_1</version.org.apache.servicemix.bundles.antlr>
         <version.org.apache.servicemix.bundles.aopalliance>1.0_6</version.org.apache.servicemix.bundles.aopalliance>
