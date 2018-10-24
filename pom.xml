@@ -119,7 +119,7 @@
         <version.javax.ws.rs>2.0.1</version.javax.ws.rs>
         <version.joda-time>2.9.9</version.joda-time>
         <version.junit>4.12</version.junit>
-        <version.net.java.dev.jna>4.5.1</version.net.java.dev.jna>
+        <version.net.java.dev.jna>4.5.2</version.net.java.dev.jna>
         <version.net.sf.ehcache>2.10.3</version.net.sf.ehcache>
         <version.org.antlr4>4.5.3</version.org.antlr4>
         <version.org.apache.activemq.amq6>5.11.0.redhat-630343</version.org.apache.activemq.amq6>
